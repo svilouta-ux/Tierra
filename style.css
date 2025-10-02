@@ -1,0 +1,91 @@
+/* Estilos generales */
+body {
+  background-color: #dce6f0; /* gris-azulado claro */
+  font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif; /* tipografía clara y robusta */
+  color: #1a1a1a; /* gris oscuro para textos */
+  margin: 20px;
+}
+
+header img {
+  display: block;
+  margin: 0 auto;
+}
+
+header h2 {
+  text-align: center;
+  color: #1f4068; /* azul grisáceo */
+  font-style: italic;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  font-family: 'Verdana', sans-serif;
+}
+
+/* Encabezados */
+h1 {
+  color: #0a3d62; /* azul intenso tipo glaciar */
+  text-align: center;
+  margin-bottom: 25px;
+  font-family: 'Verdana', sans-serif;
+}
+
+h2 {
+  color: #1f4068; /* azul grisáceo */
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Párrafos */
+p {
+  line-height: 1.7;
+  margin-bottom: 15px;
+}
+
+/* Listas */
+ul, ol {
+  margin-left: 25px;
+  margin-bottom: 15px;
+}
+
+/* Menú de navegación */
+nav {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #1f4068; /* azul grisáceo */
+  background-color: #b0c4de; /* azul grisáceo claro */
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin: 0 5px;
+  transition: 0.3s;
+  font-weight: bold;
+}
+
+nav a:hover {
+  background-color: #0a3d62; /* azul intenso */
+  color: #ffffff;
+}
+
+/* Secciones */
+section {
+  background-color: #f0f4f8; /* gris muy claro */
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 1px 1px 5px #999;
+}
+
+/* Efectos en listas */
+li {
+  margin-bottom: 8px;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px #999;
+}
+
